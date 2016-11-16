@@ -1,3 +1,0 @@
-title = pong_game
-author = sakup
-orientation = landscape
